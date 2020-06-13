@@ -71,6 +71,7 @@
             <version>1.2.6</version>
             <scope>test</scope>
         </dependency>
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -89,8 +90,6 @@
             <artifactId>extentreports</artifactId>
             <version>3.1.2</version>
         </dependency>
-
-
 
     </dependencies>
 
