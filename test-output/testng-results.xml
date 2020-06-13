@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-07T12:17:03 EDT" name="Default Suite" finished-at="2020-06-07T12:17:15 EDT" duration-ms="11646">
+    <groups>
+    </groups>
+    <test started-at="2020-06-07T12:17:03 EDT" name="Maven_Automation" finished-at="2020-06-07T12:17:15 EDT" duration-ms="11646">
+      <class name="Day15_06062020.Yahoo_Page_Object_Search_Result">
+        <test-method is-config="true" signature="defineDriver()[pri:0, instance:Day15_06062020.Yahoo_Page_Object_Search_Result@2b71e916]" started-at="2020-06-07T12:16:53 EDT" name="defineDriver" finished-at="2020-06-07T12:17:03 EDT" duration-ms="10603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defineDriver -->
+        <test-method is-config="true" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:Day15_06062020.Yahoo_Page_Object_Search_Result@2b71e916]" started-at="2020-06-07T12:17:03 EDT" name="getMethodName" finished-at="2020-06-07T12:17:04 EDT" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Day15_06062020.Yahoo_Page_Object_Search_Result.Yahoo_Search_Result() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method signature="Yahoo_Search_Result()[pri:0, instance:Day15_06062020.Yahoo_Page_Object_Search_Result@2b71e916]" started-at="2020-06-07T12:17:04 EDT" name="Yahoo_Search_Result" finished-at="2020-06-07T12:17:15 EDT" duration-ms="11510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Yahoo_Search_Result -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:Day15_06062020.Yahoo_Page_Object_Search_Result@2b71e916]" started-at="2020-06-07T12:17:15 EDT" name="endTest" finished-at="2020-06-07T12:17:15 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="closeInfo()[pri:0, instance:Day15_06062020.Yahoo_Page_Object_Search_Result@2b71e916]" started-at="2020-06-07T12:17:15 EDT" name="closeInfo" finished-at="2020-06-07T12:17:16 EDT" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeInfo -->
+      </class> <!-- Day15_06062020.Yahoo_Page_Object_Search_Result -->
+    </test> <!-- Maven_Automation -->
+  </suite> <!-- Default Suite -->
+</testng-results>
