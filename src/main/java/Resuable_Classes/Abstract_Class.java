@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.lang.reflect.Method;
 
 public class Abstract_Class {
-
+     ///new changes
     //you need to set the global variables as public static in order
     //to be used on your @test classes
     public static WebDriver driver;
